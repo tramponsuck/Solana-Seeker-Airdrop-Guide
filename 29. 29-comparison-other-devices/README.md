@@ -1,5 +1,9 @@
-# 29. Порівняння з іншими пристроями
+# 29. Сравнение с другими устройствами
 
-- Solana Seeker vs Saga
-- Seeker vs звичайний Android + Phantom
-- Переваги саме Seeker для airdrop'ів
+**Преимущества Seeker:**
+- Встроенный Seed Vault (аппаратная безопасность)
+- Официальный Activity Tracking
+- Genesis Token и эксклюзивные перки
+- Родная интеграция с Solana Mobile
+
+Обычный Android + Phantom даёт меньше баллов за активность.
